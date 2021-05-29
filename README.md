@@ -4,6 +4,8 @@
 
 A basic Bubble Sort, Insertion Sort and Selection Sort Visualizer applying matplotlib in Python. The main goal of this project is the use of data and procedure abstraction in the creation of an extensible program.
 
+An portuguese article was written explaining in details the implementation, it can be found in the folder <i>/docs</i>
+
 <b> Second project of the class Imperative and Object Oriented Programming Paradigm.</b>
 
 ## <div id = "fea" >Features</div>
