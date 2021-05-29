@@ -34,6 +34,7 @@ That was an example using a fictional <i>Quick_Sort</i> Algorithm.
 
 ## How to use
 As mentioned matplotlib was used, so is necessary to install it.
+The <i>Main.py</i> file, is the file to be executed.
 
 ### Input
 It has a menu where the user are able to select the preferences mentioned on the <a href="#fea"><i>features</i></a> section.
