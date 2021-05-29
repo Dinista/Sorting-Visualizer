@@ -39,3 +39,6 @@ As mentioned matplotlib was used, so is necessary to install it.
 It has a menu where the user are able to select the preferences mentioned on the <a href="#fea"><i>features</i></a> section.
 ### Output
 The output will be a windown showing the visualization, the execution time and the number of exchanges made through execution.
+
+## Unit tests
+Each sort algorithm has unit tests implemented.
